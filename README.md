@@ -1,5 +1,5 @@
 # React refresher
-Same as:
+Similar to:
 https://github.com/efmorales/a02-summer2023-301/
 But in React.
 
